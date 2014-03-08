@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://theharq.github.io/sitemap.xml 
