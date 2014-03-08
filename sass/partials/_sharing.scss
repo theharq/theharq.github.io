@@ -1,8 +1,15 @@
-.sharing {
+.sharing-box {
   p.meta + & {
     padding: { top: 1em; left: 0; }
-    background: $img-border top left repeat-x;
   }
+}
+
+/* Sharing box rules */
+div.sharing-box {
+  width: 110px;
+  position: absolute;
+  left: 100%;
+  top: 50px;
 }
 
 #fb-root { display: none; }
