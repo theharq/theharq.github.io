@@ -4,7 +4,7 @@
   <title><![CDATA[Hilde Brando]]></title>
   <link href="http://theharq.github.io/atom.xml" rel="self"/>
   <link href="http://theharq.github.io/"/>
-  <updated>2014-03-07T22:42:20-05:00</updated>
+  <updated>2014-03-07T23:56:48-05:00</updated>
   <id>http://theharq.github.io/</id>
   <author>
     <name><![CDATA[Hildebrando Rueda]]></name>
@@ -14,13 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[New Blog: this is how I installed and hosted on github pages]]></title>
-    <link href="http://theharq.github.io/blog/2014/03/07/new-blog-this-is-how-i-installed-and-hosted-on-github-pages/"/>
-    <updated>2014-03-07T22:30:31-05:00</updated>
-    <id>http://theharq.github.io/blog/2014/03/07/new-blog-this-is-how-i-installed-and-hosted-on-github-pages</id>
+    <title type="html"><![CDATA[Hi everyone]]></title>
+    <link href="http://theharq.github.io/blog/2014/03/07/hi-everyone/"/>
+    <updated>2014-03-07T23:19:01-05:00</updated>
+    <id>http://theharq.github.io/blog/2014/03/07/hi-everyone</id>
     <content type="html"><![CDATA[<h2>Why I decided to have a blog?</h2>
 
-<p>I&rsquo;ve been planning to create a blog for different purposes, blsblsbl</p>
+<p>I&rsquo;ve been planning to create a blog for a long time, but there&rsquo;s always something to distract me, I love coding, I feel very fortunate for have made of my hobby a way of living.</p>
+
+<h2>Which blogging platform will I use?</h2>
+
+<p>Hi. This is my new blog</p>
 ]]></content>
   </entry>
   
